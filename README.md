@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_University_seal_2003.svg/200px-Stanford_University_seal_2003.svg.png" width="150" alt="Stanford University Logo"/>
+  <img src="./stanford_logo.svg" width="150" alt="Stanford University Logo"/>
   <h1>🧠 CS231n: Deep Learning for Computer Vision</h1>
   <p><b>My personal journey, notes, and assignment solutions for Stanford's CS231n course.</b></p>
   
