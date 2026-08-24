@@ -1,0 +1,74 @@
+{
+  "lectures": [
+    {
+      "id": "5",
+      "title": "Image Classification with CNNs",
+      "dir": "5. Image Classification with CNNs"
+    },
+    {
+      "id": "6",
+      "title": "CNN Architectures",
+      "dir": "6. CNN Architectures"
+    },
+    {
+      "id": "7",
+      "title": "Recurrent Neural Networks",
+      "dir": "7. Recurrent Neural Networks"
+    },
+    {
+      "id": "8",
+      "title": "Attention and Transformers",
+      "dir": "8. Attention and Transformers"
+    },
+    {
+      "id": "9",
+      "title": "Object Detection, Image Segmentation, Visualizing and Understanding",
+      "dir": "9. Object Detection, Image Segmentation, Visualizing and Understanding"
+    },
+    {
+      "id": "10",
+      "title": "Video Understanding",
+      "dir": "10. Video Understanding"
+    },
+    {
+      "id": "11",
+      "title": "Large Scale Distributed Training",
+      "dir": "11. Large Scale Distributed Training"
+    },
+    {
+      "id": "12",
+      "title": "Self-supervised Learning",
+      "dir": "12. Self-supervised Learning"
+    },
+    {
+      "id": "13",
+      "title": "Generative Models 1",
+      "dir": "13. Generative Models 1"
+    },
+    {
+      "id": "14",
+      "title": "Generative Models 2",
+      "dir": "14. Generative Models 2"
+    },
+    {
+      "id": "15",
+      "title": "3D Vision",
+      "dir": "15. 3D Vision"
+    },
+    {
+      "id": "16",
+      "title": "Vision and Language",
+      "dir": "16. Vision and Language"
+    },
+    {
+      "id": "17",
+      "title": "World Modeling",
+      "dir": "17. World Modeling"
+    },
+    {
+      "id": "18",
+      "title": "Human-Centered AI",
+      "dir": "18. Human-Centered AI"
+    }
+  ]
+}

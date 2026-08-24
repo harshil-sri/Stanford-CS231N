@@ -1,0 +1,22 @@
+# Local config
+.env
+
+# Runtime artifacts
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Local tooling
+tools/
+*.skill
+state.json
+.agy-mcp/
+
+# Slides kept local
+*.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
